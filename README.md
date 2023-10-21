@@ -5,7 +5,7 @@
 - 📫 How to reach me venkateshrochita@gmail.com
 
  
-- Technical Skills:
+  ### Technical Skills
 - Programming languages (Python, 
 HTML)
 - Data analysis (Excel, SQL)
@@ -14,7 +14,7 @@ proficiency (Windows, IOS, Microsoft
 Office)
 
 
-- Soft Skill:
+  ### Soft Skill
 - Communication (verbal and written)
 - Problem-solving and critical thinking
 - Time management and organization
